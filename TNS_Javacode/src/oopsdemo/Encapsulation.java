@@ -22,7 +22,6 @@ class Human1
     
 }
 
-
 public class Encapsulation {
 
     public static void main(String[] args) {
@@ -37,5 +36,4 @@ public class Encapsulation {
         System.out.println(human1.getAge());
         System.out.println(human1.getName());
     }
-
 }
