@@ -1,4 +1,4 @@
-package prg1;
+package Introduction;
 
 public class HelloWorld {
 
