@@ -1,6 +1,5 @@
 package oopsdemo;
 
-
 class Car{
 	void travel() {
 		System.out.println("car is used for transportation");
