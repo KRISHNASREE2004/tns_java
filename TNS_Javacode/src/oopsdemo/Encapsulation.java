@@ -27,12 +27,12 @@ public class Encapsulation {
     public static void main(String[] args) {
         Human1 human1=new Human1();
         human1.setAge(23);
-        human1.setName("Akash");
+        human1.setName("Krishnasree");
         System.out.println(human1.getAge());
         System.out.println(human1.getName());
         
         human1.setAge(67);
-        human1.setName("Sushma");
+        human1.setName("jaikrishna");
         System.out.println(human1.getAge());
         System.out.println(human1.getName());
     }
