@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.exceptiondemo;
+package org.tnsif.accenture.c2tc.exceptiondemo;
 
 public class Arithematic_exception {
 	
