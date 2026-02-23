@@ -1,4 +1,4 @@
-package org.tnsif.accenture.c2ct.oopsdemo;
+package org.tnsif.accenture.c2tc.oopsdemo;
 
 class Payment{
 	void makepayment() {

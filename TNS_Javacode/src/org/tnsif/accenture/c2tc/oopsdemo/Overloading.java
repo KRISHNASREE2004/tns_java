@@ -1,4 +1,4 @@
-package org.tnsif.accenture.c2ct.oopsdemo;
+package org.tnsif.accenture.c2tc.oopsdemo;
 class Calculator{
 	int add(int a ,int b) {
 		return a + b;
