@@ -1,5 +1,5 @@
 
-package oopsdemo;
+package org.tnsif.accenture.c2ct.oopsdemo;
 
 class Employee{
 	void company() {

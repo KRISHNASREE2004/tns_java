@@ -1,4 +1,4 @@
-package oopsdemo;
+package org.tnsif.accenture.c2ct.oopsdemo;
 
 class Car{
 	void travel() {
